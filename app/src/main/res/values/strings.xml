@@ -1,3 +1,26 @@
 <resources>
-    <string name="app_name">SplitTheBillApp</string>
+    <string name="app_name">割り勘道場</string>
+    <string name="btn_start">START</string>
+    <string name="text_title">割り勘道場</string>
+    <string name="text_setting">金額設定</string>
+    <string name="text_totalAmount">合計金額：</string>
+    <string name="text_player">人数：</string>
+    <string name="btn_sharp">キッチリモード</string>
+    <string name="btn_mild">マイルドモード</string>
+    <string name="btn_hard">ハードモード</string>
+    <string name="btn_free">一人無料モード</string>
+    <string name="dialog_writeNumber">整数値を入力してください</string>
+    <string name="dialog_write">2以上を入力してください</string>
+    <string name="text_tap">割れ！！</string>
+    <string name="btn_setting">金額設定へ戻る</string>
+    <string name="btn_nextMember">次の人へ</string>
+    <string name="btn_result">結果発表</string>
+    <string name="btn_home">ホーム画面へ</string>
+    <string name="btn_howTo">遊び方</string>
+    <string name="text_howToSharp">1円単位での割り勘になります。</string>
+    <string name="text_howToMild">振れ幅が少なく、楽しく割り勘が出来ます。</string>
+    <string name="text_howToHard">完全抽選のガチモードです。</string>
+    <string name="text_howToFree">必ず一人が無料になります。</string>
+    <string name="text_howTo">※金額が一万円を超えると・・・</string>
+    <string name="btn_request">追加機能をリクエスト</string>
 </resources>
